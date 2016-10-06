@@ -6,6 +6,9 @@ http://stackoverflow.com/questions/26723467/what-is-the-difference-between-form-
 
 http://blog.tylerholmes.com/2008/05/http-headers-content-type-and-content.html
 
+http://johnnycode.com/2013/10/30/the-differences-between-html-form-content-types-enctype/#page
+
+
 
 = 
 __application/x-www-form-urlencoded :__   Transcode all characters before uploading (default).
